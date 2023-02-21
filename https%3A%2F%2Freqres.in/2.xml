@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<con:resource name="2" path="/api/users/2" id="6e4f5ffa-cb09-423c-8b7a-6f38250a1717" xmlns:con="http://eviware.com/soapui/config"><con:settings><con:setting id="6e4f5ffa-cb09-423c-8b7a-6f38250a1717fileName">2</con:setting></con:settings><con:parameters/><con:method name="2" id="6c9a05e3-b3bf-4a94-89f5-3c2b418d0306" method="PUT"><con:settings/><con:parameters/><con:request name="UpdateUserName" id="9c04e9da-4f3d-46d1-b68f-b1fa1c8d6717" mediaType="application/json"><con:settings/><con:endpoint>https://reqres.in</con:endpoint><con:request>{\r
+    "name": "morpheus",\r
+    "job": "zion resident"\r
+}</con:request><con:parameters/></con:request></con:method></con:resource>

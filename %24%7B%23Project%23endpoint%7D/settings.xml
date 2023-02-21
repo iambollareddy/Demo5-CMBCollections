@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<con:interface xsi:type="con:RestService" id="499b5487-b216-43cb-bee3-bbec58e03048" wadlVersion="http://wadl.dev.java.net/2009/02" name="${#Project#endpoint}" type="rest" xmlns:con="http://eviware.com/soapui/config" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><con:settings><con:setting id="499b5487-b216-43cb-bee3-bbec58e03048fileName">%24%7B%23Project%23endpoint%7D</con:setting></con:settings><con:definitionCache/><con:endpoints><con:endpoint>${#Project#endpoint}</con:endpoint></con:endpoints></con:interface>

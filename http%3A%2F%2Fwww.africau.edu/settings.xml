@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<con:interface xsi:type="con:RestService" id="dda2f9c8-fd56-4f31-86f8-7595018b342e" wadlVersion="http://wadl.dev.java.net/2009/02" name="http://www.africau.edu" type="rest" xmlns:con="http://eviware.com/soapui/config" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><con:settings><con:setting id="dda2f9c8-fd56-4f31-86f8-7595018b342efileName">http%3A%2F%2Fwww.africau.edu</con:setting></con:settings><con:definitionCache/><con:endpoints><con:endpoint>http://www.africau.edu</con:endpoint></con:endpoints></con:interface>
