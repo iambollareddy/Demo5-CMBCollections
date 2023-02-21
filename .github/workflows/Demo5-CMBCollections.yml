@@ -1,0 +1,22 @@
+# This is a basic workflow that is manually triggered
+
+name: Demo4
+
+
+on:
+  workflow_dispatch:
+    
+jobs:
+  
+  execute-test:
+    
+    runs-on: self-hosted
+
+    
+    steps:
+   
+    - name: Demo4
+      working-directory: 'C:\Users\chandra.bollareddy\AppData\Local\Programs\SmartBear\ReadyAPI-3.43.1\bin'
+      run: |
+      
+       C:\Users\chandra.bollareddy\AppData\Local\Programs\SmartBear\ReadyAPI-3.43.1\bin\testrunner.bat -r -a -j -f${WORKSPACE} "-RJUnit-Style HTML Report" -FXML "-EDefault environment" D:\ReadyAPI-Testing\CMBCollections-readyapi-project
